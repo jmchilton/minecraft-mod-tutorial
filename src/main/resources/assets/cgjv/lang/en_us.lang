@@ -1,0 +1,8 @@
+// items
+item.ves_crystal.name=VesCrystal
+item.ves_sword.name=Platinum Death Ves Sword
+item.ves_chestplate.name=Vest
+
+// blocks
+tile.ves_block.name=Ves Block
+tile.ves_crystal_block.name=Block of Ves Crystal

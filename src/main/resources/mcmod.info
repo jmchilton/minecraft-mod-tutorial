@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cgjv",
+  "name": "Vespawn",
+  "description": "Vespawn Tutorial Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jmchilton", "axescosmos"],
+  "credits": "cool people",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
